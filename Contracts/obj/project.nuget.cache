@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YumRLmesLhYxbTy2WP2HLepIps9321WyECRCKK/idydpd6OH/bijt0+OxRg0rJSplioMsFb9g6KF61EKco0u7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\MassTransitDemo\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Projects\\MassTransitDemo\\Contracts\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}
